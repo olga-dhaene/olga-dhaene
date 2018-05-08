@@ -314,6 +314,9 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center"
             }
           },
           "_name": "content1",
